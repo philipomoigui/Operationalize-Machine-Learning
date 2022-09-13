@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+![philipomoigui](https://circleci.com/gh/philipomoigui/Operationalize-Machine-Learning.svg?style=svg)](https://app.circleci.com/pipelines/github/kcemenike/Operationalize-Machine-Learning)
 
 ## Project Overview
 
