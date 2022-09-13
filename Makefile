@@ -13,7 +13,7 @@ setup:
 
 install:
 	# This should be run from inside a virtualenv
-	sudo pip install --upgrade pip &&\
+	pip install --upgrade pip &&\
 		pip install -r requirements.txt
 	
 	# Install hadolint
