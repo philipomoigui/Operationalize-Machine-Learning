@@ -1,4 +1,4 @@
-![philipomoigui](https://circleci.com/gh/philipomoigui/Operationalize-Machine-Learning.svg?style=svg)](https://app.circleci.com/pipelines/github/kcemenike/Operationalize-Machine-Learning)
+![philipomoigui](https://circleci.com/gh/philipomoigui/Operationalize-Machine-Learning.svg?style=svg)](https://app.circleci.com/pipelines/github/philipomoigui/Operationalize-Machine-Learning)
 
 ## Project Overview
 
